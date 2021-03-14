@@ -1,7 +1,7 @@
 /*
 Create a class Container.There are two functions in the class, calculateArea() and
-calculateVolume().The program will receive inputs from userand the inputs will be passed
-to the class Container for calculating the areaand volume.Declare the necessary variables.
+calculateVolume().The program will receive inputs from user and the inputs will be passed
+to the class Container for calculating the area and volume. Declare the necessary variables.
 */
 #include <iostream>
 
