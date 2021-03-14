@@ -1,15 +1,15 @@
 /*
-Write a program that calculates the user’s body mass index (BMI) and categorizes it as
+Write a program that calculates the userâ€™s body mass index (BMI) and categorizes it as
 underweight, normal, overweight or obese, based on the following table from the United States
 Centers for Disease Control:
 
 Below 18.5		Underweight
-18.5 – 24.9		Normal
-25.0 – 29.9		Overweight
-30.0 and above	Obese
+18.5 â€“ 24.9		Normal
+25.0 â€“ 29.9		Overweight
+30.0 and above		Obese
 
 Sample Run:
-USER’S BODY MASS INDEX (BMI) CALCULATOR
+USERâ€™S BODY MASS INDEX (BMI) CALCULATOR
 Enter weight in pounds => 600.00
 Enter height in inches => 165.50
 You BMI is 15.40 and your weight status is underweight.
