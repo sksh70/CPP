@@ -1,5 +1,5 @@
 /*
-Write a c program to display an integer in reverse order. Your program should include following
+Write a C++ program to display an integer in reverse order. Your program should include following
 method to display an integer in reverse order:
 
 void reverse (int number)
