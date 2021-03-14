@@ -9,10 +9,10 @@ Enter odometer reading >> 40112
 Emissions exceed permitted level of 0.30 grams/mile.
 
 Use the table of emissions limits below to determine the appropriate message.
-							First 50,000 Miles		Second 50,000 Miles
-Carbon Monoxide				3.5 grams/mile			4.5 grams/mile
-Hydrocarbons				0.30 grams/mile			0.40 grams/mile
-Nitrogen Oxides				0.40 grams/mile			0.50 grams/mile
+				First 50,000 Miles		Second 50,000 Miles
+Carbon Monoxide			3.5 grams/mile			4.5 grams/mile
+Hydrocarbons			0.30 grams/mile			0.40 grams/mile
+Nitrogen Oxides			0.40 grams/mile			0.50 grams/mile
 Nonmethane Hydrocarbons		0.25 grams/mile			0.31 grams/mile
 */
 #include <iostream>
