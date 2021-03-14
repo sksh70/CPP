@@ -8,10 +8,10 @@ v. An integer between 0 and 60 showing the minute the vehicle left the lot
 
 For encouraging people to park for a short period of time, the management uses two different rates for each type of vehicle as shown below:
 
-Vehicle		First Rate				Second Rate
-CAR			$ 1.00/hr first 3 hr	$ 2.00 after first 3 hr
+Vehicle		First Rate		Second Rate
+CAR		$ 1.00/hr first 3 hr	$ 2.00 after first 3 hr
 TRUCK		$ 1.50/hr first 3 hr	$ 2.50 after first 3 hr
-BUS			$ 2.00/hr first 3 hr	$ 3.00 after first 3 hr
+BUS		$ 2.00/hr first 3 hr	$ 3.00 after first 3 hr
 
 No vehicle is allowed to stay in the parking lot later than midnight. If the customer is detected
 stay parking lot overnight, the customer is required to pay the penalty fee $ 150.00 per day
